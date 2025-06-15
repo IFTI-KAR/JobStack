@@ -113,21 +113,6 @@ JobStack is a professional job portal where users can explore top companies, vie
 
 
 
-4. **Environment**
-
-   * Firebase setup (auth)
-   * Add your Firebase config to `.env.local`
-
----
-
-##
-
-
----
-
-## ⚖️ License
-
-This project is open-source and available under the MIT License.
 
 ---
 
