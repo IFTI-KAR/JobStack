@@ -1,0 +1,603 @@
+[
+  {
+    "id": "1",
+    "name": "Google LLC",
+    "logo": "https://logo.clearbit.com/google.com",
+    "location": "Mountain View, CA, USA",
+    "website": "https://www.google.com",
+    "industry": "Technology",
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "Software Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Mountain View, CA",
+        "salary": "$120,000 - $180,000",
+        "jobType": "Full-time",
+        "description": "Design and develop scalable applications for Google products.",
+        "requirements": [
+          "Proficiency in Java, C++, or Python",
+          "Experience with distributed systems",
+          "Strong problem-solving skills",
+          "Bachelor’s in Computer Science"
+        ]
+      },
+      {
+        "id": "job-002",
+        "title": "UX Designer",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "Remote",
+        "salary": "$100,000 - $150,000",
+        "jobType": "Full-time",
+        "description": "Craft intuitive and delightful user experiences for Google's platforms.",
+        "requirements": [
+          "Experience with Figma or Sketch",
+          "Strong understanding of UX principles",
+          "Excellent communication skills",
+          "Portfolio of design work"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Amazon",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "location": "Seattle, WA, USA",
+    "website": "https://www.amazon.com",
+    "industry": "E-commerce",
+    "jobs": [
+      {
+        "id": "job-003",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://images.unsplash.com/photo-1537432376769-00a69e7c88b5",
+        "location": "Seattle, WA",
+        "salary": "$130,000 - $190,000",
+        "jobType": "Full-time",
+        "description": "Architect cloud-native applications using AWS services.",
+        "requirements": [
+          "Deep knowledge of AWS",
+          "Strong communication skills",
+          "Experience in DevOps and CI/CD",
+          "Cloud certification preferred"
+        ]
+      },
+      {
+        "id": "job-004",
+        "title": "Logistics Manager",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "Seattle, WA",
+        "salary": "$80,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Manage and optimize Amazon's global logistics and supply chain.",
+        "requirements": [
+          "Experience in supply chain management",
+          "Strong analytical skills",
+          "Excellent leadership",
+          "Knowledge of warehouse operations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Microsoft",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "location": "Redmond, WA, USA",
+    "website": "https://www.microsoft.com",
+    "industry": "Software",
+    "jobs": [
+      {
+        "id": "job-005",
+        "title": "Data Scientist",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "Redmond, WA",
+        "salary": "$115,000 - $170,000",
+        "jobType": "Full-time",
+        "description": "Analyze large datasets and build predictive models.",
+        "requirements": [
+          "Experience with Python, R",
+          "Strong statistical analysis skills",
+          "Machine learning knowledge",
+          "Experience with SQL"
+        ]
+      },
+      {
+        "id": "job-006",
+        "title": "Cloud Software Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Remote",
+        "salary": "$125,000 - $180,000",
+        "jobType": "Full-time",
+        "description": "Develop cloud infrastructure and services for Azure.",
+        "requirements": [
+          "Experience with Azure cloud services",
+          "Proficiency in C# or Java",
+          "Knowledge of Kubernetes and Docker",
+          "Good teamwork skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Airbnb",
+    "logo": "https://logo.clearbit.com/airbnb.com",
+    "location": "San Francisco, CA, USA",
+    "website": "https://www.airbnb.com",
+    "industry": "Hospitality",
+    "jobs": [
+      {
+        "id": "job-007",
+        "title": "Backend Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1612831455545-23682b6e5b5a",
+        "location": "Remote",
+        "salary": "$110,000 - $160,000",
+        "jobType": "Full-time",
+        "description": "Build scalable backend systems to support millions of users.",
+        "requirements": [
+          "Strong experience in Node.js or Go",
+          "Knowledge of microservices",
+          "Experience with PostgreSQL",
+          "Good problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-008",
+        "title": "Product Designer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "San Francisco, CA",
+        "salary": "$105,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Design user-friendly product features and experiences.",
+        "requirements": [
+          "Proficiency with design tools like Sketch, Figma",
+          "Strong visual design skills",
+          "User research experience",
+          "Team collaboration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Spotify",
+    "logo": "https://logo.clearbit.com/spotify.com",
+    "location": "Stockholm, Sweden",
+    "website": "https://www.spotify.com",
+    "industry": "Music Streaming",
+    "jobs": [
+      {
+        "id": "job-009",
+        "title": "Mobile Developer (iOS)",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Stockholm, Sweden",
+        "salary": "€65,000 - €90,000",
+        "jobType": "Full-time",
+        "description": "Develop and maintain Spotify’s iOS application.",
+        "requirements": [
+          "Swift and Objective-C experience",
+          "Familiarity with MVVM architecture",
+          "Strong debugging skills",
+          "Team collaboration experience"
+        ]
+      },
+      {
+        "id": "job-010",
+        "title": "Data Analyst",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Remote",
+        "salary": "€50,000 - €70,000",
+        "jobType": "Full-time",
+        "description": "Analyze user data to inform product decisions.",
+        "requirements": [
+          "Experience with SQL and Excel",
+          "Strong analytical mindset",
+          "Knowledge of data visualization tools",
+          "Excellent communication"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Shopify",
+    "logo": "https://logo.clearbit.com/shopify.com",
+    "location": "Ottawa, Canada",
+    "website": "https://www.shopify.com",
+    "industry": "E-commerce",
+    "jobs": [
+      {
+        "id": "job-011",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Remote",
+        "salary": "$100,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Manage CI/CD pipelines and ensure system reliability.",
+        "requirements": [
+          "Kubernetes and Docker experience",
+          "Familiarity with AWS/GCP",
+          "Automation with Ansible or Terraform",
+          "Scripting in Bash or Python"
+        ]
+      },
+      {
+        "id": "job-012",
+        "title": "Frontend Developer",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "Ottawa, Canada",
+        "salary": "$85,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Build responsive web interfaces for Shopify platform.",
+        "requirements": [
+          "Strong skills in React and JavaScript",
+          "Experience with CSS and HTML5",
+          "Understanding of REST APIs",
+          "Good communication"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Tesla",
+    "logo": "https://logo.clearbit.com/tesla.com",
+    "location": "Palo Alto, CA, USA",
+    "website": "https://www.tesla.com",
+    "industry": "Automotive",
+    "jobs": [
+      {
+        "id": "job-013",
+        "title": "Mechanical Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Palo Alto, CA",
+        "salary": "$90,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Design mechanical components for electric vehicles.",
+        "requirements": [
+          "Strong CAD skills",
+          "Knowledge of manufacturing processes",
+          "Bachelor’s in Mechanical Engineering",
+          "Hands-on prototyping experience"
+        ]
+      },
+      {
+        "id": "job-014",
+        "title": "Battery Research Scientist",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "Palo Alto, CA",
+        "salary": "$110,000 - $150,000",
+        "jobType": "Full-time",
+        "description": "Research and develop advanced battery technologies.",
+        "requirements": [
+          "PhD in Chemistry or Materials Science",
+          "Experience with electrochemistry",
+          "Strong research skills",
+          "Team collaboration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Slack Technologies",
+    "logo": "https://logo.clearbit.com/slack.com",
+    "location": "San Francisco, CA, USA",
+    "website": "https://slack.com",
+    "industry": "Communication Software",
+    "jobs": [
+      {
+        "id": "job-015",
+        "title": "Site Reliability Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "Remote",
+        "salary": "$120,000 - $160,000",
+        "jobType": "Full-time",
+        "description": "Ensure high availability and reliability of Slack services.",
+        "requirements": [
+          "Linux and cloud ops experience",
+          "Monitoring tools (e.g., Prometheus, Grafana)",
+          "Scripting with Python or Go",
+          "Incident response skills"
+        ]
+      },
+      {
+        "id": "job-016",
+        "title": "Product Marketing Manager",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "San Francisco, CA",
+        "salary": "$110,000 - $145,000",
+        "jobType": "Full-time",
+        "description": "Drive marketing strategies for Slack products.",
+        "requirements": [
+          "Experience in SaaS marketing",
+          "Strong communication skills",
+          "Data-driven marketing approach",
+          "Team leadership"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Netflix",
+    "logo": "https://logo.clearbit.com/netflix.com",
+    "location": "Los Gatos, CA, USA",
+    "website": "https://www.netflix.com",
+    "industry": "Entertainment",
+    "jobs": [
+      {
+        "id": "job-017",
+        "title": "Data Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "Los Gatos, CA",
+        "salary": "$130,000 - $180,000",
+        "jobType": "Full-time",
+        "description": "Build data pipelines to support data-driven decision making.",
+        "requirements": [
+          "Strong SQL and Spark skills",
+          "Experience with big data platforms",
+          "Data warehousing knowledge",
+          "Python or Scala experience"
+        ]
+      },
+      {
+        "id": "job-018",
+        "title": "Content Strategist",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Los Gatos, CA",
+        "salary": "$95,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Develop content plans and strategies for Netflix Originals.",
+        "requirements": [
+          "Experience in media content creation",
+          "Strong writing skills",
+          "Knowledge of entertainment industry",
+          "Creative mindset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Adobe",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "location": "San Jose, CA, USA",
+    "website": "https://www.adobe.com",
+    "industry": "Creative Software",
+    "jobs": [
+      {
+        "id": "job-019",
+        "title": "Product Manager",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "San Jose, CA",
+        "salary": "$115,000 - $160,000",
+        "jobType": "Full-time",
+        "description": "Lead product development initiatives and roadmap.",
+        "requirements": [
+          "3+ years in product management",
+          "Experience in agile teams",
+          "Strong user empathy",
+          "Excellent communication and leadership"
+        ]
+      },
+      {
+        "id": "job-020",
+        "title": "Graphic Designer",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "San Jose, CA",
+        "salary": "$75,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Create graphic assets for Adobe marketing campaigns.",
+        "requirements": [
+          "Proficiency in Adobe Creative Suite",
+          "Strong portfolio",
+          "Creative and detail-oriented",
+          "Good teamwork"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Intel",
+    "logo": "https://logo.clearbit.com/intel.com",
+    "location": "Santa Clara, CA, USA",
+    "website": "https://www.intel.com",
+    "industry": "Semiconductors",
+    "jobs": [
+      {
+        "id": "job-021",
+        "title": "Chip Design Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "Santa Clara, CA",
+        "salary": "$110,000 - $160,000",
+        "jobType": "Full-time",
+        "description": "Design next-generation microprocessors and chipsets.",
+        "requirements": [
+          "Experience with Verilog/VHDL",
+          "Familiarity with EDA tools",
+          "Electrical Engineering degree",
+          "Analytical problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-022",
+        "title": "Hardware Validation Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Santa Clara, CA",
+        "salary": "$95,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Validate hardware performance through simulation and testing.",
+        "requirements": [
+          "Experience with Python/C++ for validation",
+          "Familiarity with PC architecture",
+          "Knowledge of digital and analog systems",
+          "Strong documentation skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Dropbox",
+    "logo": "https://logo.clearbit.com/dropbox.com",
+    "location": "San Francisco, CA, USA",
+    "website": "https://www.dropbox.com",
+    "industry": "Cloud Storage",
+    "jobs": [
+      {
+        "id": "job-023",
+        "title": "Security Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "Remote",
+        "salary": "$125,000 - $170,000",
+        "jobType": "Full-time",
+        "description": "Protect Dropbox systems from security threats and vulnerabilities.",
+        "requirements": [
+          "Security certifications (e.g., CISSP)",
+          "Penetration testing experience",
+          "Strong scripting ability",
+          "Understanding of secure architecture"
+        ]
+      },
+      {
+        "id": "job-024",
+        "title": "Customer Success Manager",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $125,000",
+        "jobType": "Full-time",
+        "description": "Ensure long-term success and satisfaction of Dropbox business users.",
+        "requirements": [
+          "Excellent client relationship skills",
+          "Experience in SaaS environments",
+          "Strong communication and empathy",
+          "Data-driven mindset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Zoom Video Communications",
+    "logo": "https://logo.clearbit.com/zoom.us",
+    "location": "San Jose, CA, USA",
+    "website": "https://zoom.us",
+    "industry": "Video Conferencing",
+    "jobs": [
+      {
+        "id": "job-025",
+        "title": "Video Software Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Remote",
+        "salary": "$115,000 - $165,000",
+        "jobType": "Full-time",
+        "description": "Optimize video codecs and streaming experience for Zoom.",
+        "requirements": [
+          "Experience with real-time media protocols",
+          "C/C++ proficiency",
+          "Knowledge of WebRTC",
+          "Bachelor’s in Computer Engineering"
+        ]
+      },
+      {
+        "id": "job-026",
+        "title": "Customer Support Analyst",
+        "bannerImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "location": "San Jose, CA",
+        "salary": "$70,000 - $95,000",
+        "jobType": "Full-time",
+        "description": "Support Zoom users with product issues and feedback.",
+        "requirements": [
+          "Excellent communication skills",
+          "Tech-savvy and adaptable",
+          "Experience with CRM tools",
+          "Customer-first mindset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Stripe",
+    "logo": "https://logo.clearbit.com/stripe.com",
+    "location": "San Francisco, CA, USA",
+    "website": "https://stripe.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-027",
+        "title": "Backend Infrastructure Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Remote",
+        "salary": "$130,000 - $180,000",
+        "jobType": "Full-time",
+        "description": "Build and scale backend services for global payments.",
+        "requirements": [
+          "Strong experience with Go, Rust, or Java",
+          "Distributed systems knowledge",
+          "Database performance tuning",
+          "Cloud-native architecture experience"
+        ]
+      },
+      {
+        "id": "job-028",
+        "title": "Technical Writer",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $125,000",
+        "jobType": "Full-time",
+        "description": "Create clear and concise documentation for Stripe APIs.",
+        "requirements": [
+          "Strong technical background",
+          "Excellent writing skills",
+          "Experience writing for developers",
+          "Attention to detail"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "LinkedIn",
+    "logo": "https://logo.clearbit.com/linkedin.com",
+    "location": "Sunnyvale, CA, USA",
+    "website": "https://www.linkedin.com",
+    "industry": "Professional Networking",
+    "jobs": [
+      {
+        "id": "job-029",
+        "title": "Machine Learning Engineer",
+        "bannerImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "location": "Sunnyvale, CA",
+        "salary": "$120,000 - $175,000",
+        "jobType": "Full-time",
+        "description": "Develop recommendation systems and ML models.",
+        "requirements": [
+          "Experience with TensorFlow or PyTorch",
+          "Data preprocessing and model deployment",
+          "Python/Scala knowledge",
+          "ML algorithms understanding"
+        ]
+      },
+      {
+        "id": "job-030",
+        "title": "UX Researcher",
+        "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "location": "Sunnyvale, CA",
+        "salary": "$100,000 - $135,000",
+        "jobType": "Full-time",
+        "description": "Conduct user research to guide product design.",
+        "requirements": [
+          "Qualitative and quantitative research skills",
+          "Experience with usability testing",
+          "Strong storytelling skills",
+          "Cross-functional collaboration"
+        ]
+      }
+    ]
+  }
+
+]
