@@ -9,7 +9,7 @@ JobStack is a professional job portal where users can explore top companies, vie
 
 ---
 
-##  \*\*\*🚀 Getting Started (Development)
+## 🚀 Getting Started (Development)
 
 1. **Clone this repository**
 
