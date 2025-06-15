@@ -9,6 +9,29 @@ JobStack is a professional job portal where users can explore top companies, vie
 
 ---
 
+##  \*\*\*🚀 Getting Started (Development)
+
+1. **Clone this repository**
+
+   ```bash
+   git clone https://github.com/your-username/jobstack.git
+   cd jobstack
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+
+
 ## 📁 Project Structure
 
 ```
@@ -88,26 +111,7 @@ JobStack is a professional job portal where users can explore top companies, vie
 * **Deployment**: Netlify (static), Firebase Hosting (auth + fallback)
 * **Data**: Local JSON (`company-jobs.json`) used with loaders
 
-##  \*\*\*🚀 Getting Started (Development)
 
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/your-username/jobstack.git
-   cd jobstack
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-
-   ```bash
-   npm run dev
-   ```
 
 4. **Environment**
 
