@@ -76,13 +76,48 @@ JobStack is a professional job portal where users can explore top companies, vie
 
 ---
 
-## 🚀 Tech Stack
+#
 
-* **React** (with JSX)
-* **React Router DOM** for client-side routing
-* **Firebase Auth** for user authentication
-* **Tailwind CSS** for styling
-* **Vite** as the development build tool
+---
+
+## 🔧 Technologies Used
+
+* **Frontend**: React, TailwindCSS, DaisyUI
+* **Routing**: `react-router-dom`
+* **Authentication**: Firebase Auth
+* **Deployment**: Netlify (static), Firebase Hosting (auth + fallback)
+* **Data**: Local JSON (`company-jobs.json`) used with loaders
+
+##  \*\*\*🚀 Getting Started (Development)
+
+1. **Clone this repository**
+
+   ```bash
+   git clone https://github.com/your-username/jobstack.git
+   cd jobstack
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Environment**
+
+   * Firebase setup (auth)
+   * Add your Firebase config to `.env.local`
+
+---
+
+##
+
 
 ---
 
